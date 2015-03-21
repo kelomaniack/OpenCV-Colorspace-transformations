@@ -1,0 +1,4 @@
+ Method [0] Base-Base, Base-Half, Base-Test(1), Base-Test(2) : 	1,		0.618396,	1,	
+ Method [1] Base-Base, Base-Half, Base-Test(1), Base-Test(2) : 	0,		18.3068,	1.96278e-005,	
+ Method [2] Base-Base, Base-Half, Base-Test(1), Base-Test(2) : 	38.4825,		21.3809,	38.4793,	
+ Method [3] Base-Base, Base-Half, Base-Test(1), Base-Test(2) : 	0,		0.436098,	0.000430156,	
