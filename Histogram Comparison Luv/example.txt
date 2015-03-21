@@ -1,0 +1,4 @@
+ Method [0] Perfect, Base-Half, Base-Test(1), Base-Test(2) : 	1,		0.999198,	1,	
+ Method [1] Perfect, Base-Half, Base-Test(1), Base-Test(2) : 	0,		1.07778,	2.21563e-006,	
+ Method [2] Perfect, Base-Half, Base-Test(1), Base-Test(2) : 	22.0172,		20.4755,	22.0163,	
+ Method [3] Perfect, Base-Half, Base-Test(1), Base-Test(2) : 	0,		0.121784,	0.000111241,	
