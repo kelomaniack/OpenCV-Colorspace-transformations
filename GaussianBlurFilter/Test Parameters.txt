@@ -1,0 +1,13 @@
+http://homepages.inf.ed.ac.uk/rbf/HIPR2/gsmooth.htm
+(very nice explanation)
+
+When the Gaussian ó, and the kernel are getting bigger the image goes more blurred. 
+
+So, i can test: 
+
+Default:  Eqn:eqnsigma = 0.8 (and kernel size 3x3)
+Eqn:eqnsigma = 1.0 (and kernel size 5x5)
+Eqn:eqnsigma = 2.0 (and kernel size 9x9)
+Eqn:eqnsigma = 4.0 (and kernel size 15x15)
+
+-i "Mykonos.bmp" -g 15 -s 4 -o "output.bmp"
